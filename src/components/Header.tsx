@@ -16,7 +16,7 @@ export default function Header({ onOpenPanel }: HeaderProps) {
       {/* Left section */}
       <Link className="flex items-center justify-center" href="#">
         <Cpu className="h-6 w-6 mr-2" />
-        <span className="font-bold">Bitaxe Web Flasher</span>
+        <span className="font-bold">Bitaxe & LuckyMiner Web Flasher</span>
       </Link>
 
       {/* Middle section */}

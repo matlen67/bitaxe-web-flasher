@@ -23,9 +23,9 @@ LuckyMiner - TTL-Adapter
 ![usb-to-ttl](https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e)
 
    
-Um den Flashvorgang durchzuführen muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster drücken und festhalten, danach auf der Oberseite den Resettaster betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
-Wer sichergehen möchte das der vorgang geklappt hat, kann den Webflcher verbinden und das Loggong starten. Wenn die Logausgabe mit Download anhält ist der Vorgang geglückt.
-Nun kann mit dem eigentlichen Flashvorgang begonnen werden.
+Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster drücken und festhalten, danach auf der Oberseite den Resettaster betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
+Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit Download an, ist der Vorgang geglückt.
+Nachfolgend kann mit dem eigentlichen Flashvorgang begonnen werden.
 
 
 The Bitaxe Web Flasher is the open source tool that provides you an easy solution to flash a factory file to you device.

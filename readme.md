@@ -12,11 +12,16 @@ USB to TTL Adapter
 
 https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 
+
+
 Verbindung: 
 LuckyMiner - TTL-Adapter
    RX      -    TX
    TX      -    RX
    GND     -    GND
+
+![usb-to-ttl](https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e)
+
    
 Um den Flashvorgang durchzuführen muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster drücken und festhalten, danach auf der Oberseite den Resettaster betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
 Wer sichergehen möchte das der vorgang geklappt hat, kann den Webflcher verbinden und das Loggong starten. Wenn die Logausgabe mit Download anhält ist der Vorgang geglückt.

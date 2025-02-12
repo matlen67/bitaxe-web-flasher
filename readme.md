@@ -1,6 +1,8 @@
 [![](https://dcbadge.vercel.app/api/server/3E8ca2dkcC)](https://discord.gg/3E8ca2dkcC)
 
 # Bitaxe Web Flasher
+Mit den Bitaxe Webflasher kann der LuckyMiner LV06 direkt mit einer aktuellen AxeOs Factory-Firmware direkt aus dem Browser geflasht werden.
+Die Factory.bin enthält die config datei mit der Boardversion 0.11
 
 The Bitaxe Web Flasher is the open source tool that provides you an easy solution to flash a factory file to you device.
 

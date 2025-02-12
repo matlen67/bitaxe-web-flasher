@@ -13,14 +13,14 @@ USB to TTL Adapter
 https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 
 
+Verbindung:
 
-Verbindung: 
+LuckyMiner|TTL-Adapter
+----------|-----------
+   RX     |    TX     
+   TX     |    RX     
+   GND    |    GND    
 
-|LuckyMiner| |TTL-Adapter|
-|----------| |-----------|
-|   RX     | |    TX     |
-|   TX     | |    RX     |
-|   GND    | |    GND    |
 
 ![usb-to-ttl](https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e)
 

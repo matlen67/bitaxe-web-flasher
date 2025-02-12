@@ -8,9 +8,7 @@ https://matlen67.github.io/bitaxe-web-flasher/
 
 Benötigte Hardware
 
-USB to TTL Adapter
-
-https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
+USB to TTL Adapter: https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 
 
 Verbindung:

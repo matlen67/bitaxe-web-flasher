@@ -15,6 +15,7 @@ https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
 
 Verbindung: 
+
 |LuckyMiner| |TTL-Adapter|
 |----------| |-----------|
 |   RX     | |    TX     |

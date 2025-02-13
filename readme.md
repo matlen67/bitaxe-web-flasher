@@ -24,7 +24,7 @@ LuckyMiner|TTL-Adapter
 
 
 
-Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 2) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 3) betätigen. Nun kann der Boot-Taster wieder losgelassen werden. Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit 'waitimg for Download' an (Bild 1), ist der Vorgang geglückt.
+Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 2) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 3) betätigen. Nun kann der Boot-Taster wieder losgelassen werden. Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit 'waiting for download' an (Bild 1), ist der Vorgang geglückt.
 Nachfolgend kann mit dem eigentlichen Flashvorgang begonnen werden.
 
 ### Bild 1 <br>

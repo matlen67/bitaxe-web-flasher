@@ -20,15 +20,19 @@ LuckyMiner|TTL-Adapter
    GND    |    GND    
 
 
-<img src="https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e" alt="usb-to-ttl" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e" alt="usb-to-ttl" width="500" height="500"> 
 
 
 
-Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 1) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 2) betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
-Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit Download an, ist der Vorgang geglückt.
+Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 2) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 3) betätigen. Nun kann der Boot-Taster wieder losgelassen werden. Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit 'waitimg for Download' an (Bild 1), ist der Vorgang geglückt.
 Nachfolgend kann mit dem eigentlichen Flashvorgang begonnen werden.
 
-Bild1|Bild2
+### Bild 1 <br>
+<img src="https://github.com/user-attachments/assets/c2b7e276-d748-4141-a0cd-6ff3c96edb03" alt="wait for download" width="600" height="300">
+<br>
+<br>
+
+Bild 2|Bild 3
 -----|-----
 <img src="https://github.com/user-attachments/assets/d6c30460-eaa4-4726-82d3-84a9cbde348f" alt="IMG_20250212_203558l" width="400" height="400">|<img src="https://github.com/user-attachments/assets/5eec1b03-b0cd-4cb3-8938-036a6eb473eb" alt="IMG_20250212_203552" width="400" height="400">
 

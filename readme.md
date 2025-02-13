@@ -11,7 +11,7 @@ Benötigte Hardware:
 USB to TTL Adapter: https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 
 
-Verbindung:
+### Kabelverbindung:
 
 LuckyMiner|TTL-Adapter
 ----------|-----------
@@ -20,12 +20,19 @@ LuckyMiner|TTL-Adapter
    GND    |    GND    
 
 
-![usb-to-ttl](https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e)
+<img src="https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e" alt="usb-to-ttl" width="500" height="500">
 
-   
-Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster drücken und festhalten, danach auf der Oberseite den Resettaster betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
+
+
+Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 1) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 2) betätigen. Nun kann der Boot-Taster wieder losgelassen werden.
 Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit Download an, ist der Vorgang geglückt.
 Nachfolgend kann mit dem eigentlichen Flashvorgang begonnen werden.
+
+Bild1|Bild2
+-----|-----
+<img src="https://github.com/user-attachments/assets/d6c30460-eaa4-4726-82d3-84a9cbde348f" alt="IMG_20250212_203558l" width="400" height="400">|<img src="https://github.com/user-attachments/assets/5eec1b03-b0cd-4cb3-8938-036a6eb473eb" alt="IMG_20250212_203552" width="400" height="400">
+
+
 
 
 The Bitaxe Web Flasher is the open source tool that provides you an easy solution to flash a factory file to you device.

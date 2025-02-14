@@ -11,8 +11,8 @@ Mit den Bitaxe Webflasher kann der LuckyMiner LV06 direkt mit einer aktuellen Ax
 Die Factory.bin enthält die Config-Datei mit der Boardversion 0.11
 
 https://matlen67.github.io/bitaxe-web-flasher/
-
-Benötigte Hardware:
+<br><br>
+## Benötigte Hardware:
 
 USB to TTL Adapter: https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
 

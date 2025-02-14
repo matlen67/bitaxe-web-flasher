@@ -1,5 +1,11 @@
 [![](https://dcbadge.vercel.app/api/server/3E8ca2dkcC)](https://discord.gg/3E8ca2dkcC)
 
+## Ihr nutzt einen LuckyMiner LV07, dann geht's hier weiter.
+https://github.com/un-painted-org/bitaxe-web-flasher
+<br><br>
+## Achtung Warnung! Da ich das nun schon öffters gelesen habe
+Solltet ihr an einen Bitaxe oder LuckyMiner LV06 ein 12V Netzeil anstelle des benötigten 5V Netzteils anschließen, ist mit höchster Wahrscheinlichkeit das Gerät sofort defekt. Entfernt zur Sicherheit alle LuckyMiner LV07 oder Laptop Netzeile von eurem Arbeitsplatz.  
+<br>
 # Bitaxe Web Flasher
 Mit den Bitaxe Webflasher kann der LuckyMiner LV06 direkt mit einer aktuellen AxeOS Factory-Firmware aus dem Browser geflasht werden.
 Die Factory.bin enthält die Config-Datei mit der Boardversion 0.11

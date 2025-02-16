@@ -7,7 +7,7 @@ https://github.com/un-painted-org/bitaxe-web-flasher
 Solltet ihr an einen Bitaxe oder LuckyMiner LV06 ein 12V Netzeil anstelle des benötigten 5V Netzteils anschließen, ist mit höchster Wahrscheinlichkeit das Gerät sofort defekt. Entfernt zur Sicherheit alle LuckyMiner LV07 oder Laptop Netzeile von eurem Arbeitsplatz.  
 <br>
 # Bitaxe Web Flasher
-Mit disem Bitaxe Webflasher kann der LuckyMiner LV06 direkt mit einer aktuellen AxeOS Factory-Firmware aus dem Browser geflasht werden. Die hier angebotenen esp-miner-factory-lv06 bin's enthalten die Konfiguration mit der Boardversion 0.11. Die Boardverson ist wichtig, da sonst das Mining nicht beginnt. 
+Mit diesem Bitaxe Webflasher kann der LuckyMiner LV06 mit einer AxeOS Factory-Firmware aus dem Browser geflasht werden. Die hier angebotenen esp-miner-factory-lv06 bin's enthalten die Konfiguration mit der Boardversion 0.11. Die Boardverson ist wichtig, da sonst das Mining nicht beginnt. 
 
 https://matlen67.github.io/bitaxe-web-flasher/
 <br><br>

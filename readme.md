@@ -5,15 +5,20 @@ https://github.com/un-painted-org/bitaxe-web-flasher
 <br><br>
 ## Achtung Warnung! Da ich das nun schon öffters gelesen habe
 Solltet ihr an einen Bitaxe oder LuckyMiner LV06 ein 12V Netzeil anstelle des benötigten 5V Netzteils anschließen, ist mit höchster Wahrscheinlichkeit das Gerät sofort defekt. Entfernt zur Sicherheit alle LuckyMiner LV07 oder Laptop Netzeile von eurem Arbeitsplatz.  
+
+## Hintergrund
+In der LuckyMiner Firmwareversion 2.3.6 wurde der Update-Button aus dem Weboberfläche entfernt. Um nun ein Update auf eine aktuelle AxeOS Firmware durchzuführen, ist ein eimaliger Flashvorgang mittels serielle Verbindung nötig. Danach können zukünftige Updates wieder über die Weboberfläche durch geführt werden.   
 <br>
 # Bitaxe Web Flasher
-Mit diesem Bitaxe Webflasher kann der LuckyMiner LV06 mit einer AxeOS Factory-Firmware aus dem Browser geflasht werden. Die hier angebotenen esp-miner-factory-lv06 bin's enthalten die Konfiguration mit der Boardversion 0.11. Die Boardverson ist wichtig, da sonst das Mining nicht beginnt. 
+Mit diesem Bitaxe Webflasher kann der LuckyMiner LV06 mit einer AxeOS Factory-Firmware aus dem Browser geflasht werden. Die hier angebotenen esp-miner-factory-lv06 bin's enthalten jeweils die Konfiguration mit der Boardversion 0.11. Die Boardverson ist wichtig, da sonst das Mining nicht beginnt. 
 
 https://matlen67.github.io/bitaxe-web-flasher/
 <br><br>
 ## Benötigte Hardware:
-
-USB to TTL Adapter: https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17
+Um die Kabelverbindung USB to TTL Adapter - LV06 Leiterplatte zu realisieren, ist es am einfachsten eine 2x3 polige Stiftleiste einzulöten.
+<br><br>
+Stiftleiste: https://www.amazon.de/gp/product/B08BK7ZK9B/ref=ox_sc_act_title_1?smid=A2S6WV1LPVF5CR&psc=1 <br>
+USB to TTL Adapter: https://www.amazon.de/dp/B01CYBHM26?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_17 <br>
 
 
 ### Kabelverbindung:
@@ -26,9 +31,7 @@ LuckyMiner|TTL-Adapter
 
 
 <img src="https://github.com/user-attachments/assets/5d8fdfba-e75d-4d21-bf76-d0222ef9389e" alt="usb-to-ttl" width="500" height="500"> 
-
-
-
+<br><br>
 Um den Flashvorgang durchzuführen, muss der ESP32 in den Downloadmodus versetzt werden. Dazu auf der Unterseite der Leiterplatte den Boot-Taster (Bild 2) drücken und festhalten, danach auf der Oberseite einmal den Resettaster (Bild 3) betätigen. Nun kann der Boot-Taster wieder losgelassen werden. Wer sichergehen möchte das der Vorgang geklappt hat, kann den Webflasher verbinden und das Logging starten. Hält die Logausgabe mit 'waiting for download' an (Bild 1), ist der Vorgang geglückt.
 Nachfolgend kann mit dem eigentlichen Flashvorgang begonnen werden.
 

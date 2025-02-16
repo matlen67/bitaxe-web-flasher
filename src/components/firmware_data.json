@@ -11,8 +11,8 @@
                             "path": "firmware/esp-miner-factory-lv06-v2.5.1.bin"
                         },
                         {
-                            "version": "2.6.0b5",
-                            "path": "firmware/esp-miner-factory-lv06-v2.6.0b5.bin"
+                            "version": "2.6.0b6",
+                            "path": "firmware/esp-miner-factory-lv06-v2.6.0b6.bin"
                         }
                     ]
                 }

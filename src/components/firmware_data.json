@@ -13,6 +13,10 @@
                         {
                             "version": "2.6.0",
                             "path": "firmware/esp-miner-factory-lv06-v2.6.0.bin"
+                        },
+                         {
+                            "version": "2.6.0b4",
+                            "path": "firmware/esp-miner-factory-lv06-v2.6.0b4.bin"
                         }
                     ]
                 }

@@ -21,6 +21,20 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Gamma",
+            "boards": [
+                {
+                    "name": "601",
+                    "supported_firmware": [
+                        {
+                            "version": "2.6.0b12",
+                            "path": "firmware/esp-miner-factory-601-v2.6.0b12.bin"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

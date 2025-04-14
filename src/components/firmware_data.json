@@ -23,6 +23,20 @@
             ]
         },
         {
+            "name": "LV08",
+            "boards": [
+                {
+                    "name": "302",
+                    "supported_firmware": [
+                        {
+                            "version": "v2.6.1-1.0.5",
+                            "path": "firmware/esp-miner-factory-lv08-v2.6.1-1.0.5.bin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Gamma",
             "boards": [
                 {

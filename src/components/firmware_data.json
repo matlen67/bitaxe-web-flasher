@@ -29,8 +29,22 @@
                     "name": "302",
                     "supported_firmware": [
                         {
-                            "version": "v2.6.1-1.0.5",
-                            "path": "firmware/esp-miner-factory-lv08-v2.6.1-1.0.5.bin"
+                            "version": "v2.11.0-1",
+                            "path": "firmware/esp-miner-factory-lv08-2.11.0-1.bin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SupraHex 701",
+            "boards": [
+                {
+                    "name": "701",
+                    "supported_firmware": [
+                        {
+                            "version": "v2.9.0-TCH-All-in-one-701",
+                            "path": "firmware/esp-miner-factory-v2.9.0-TCH-All-in-one-701.bin"
                         }
                     ]
                 }

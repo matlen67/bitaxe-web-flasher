@@ -57,8 +57,8 @@
                     "name": "601",
                     "supported_firmware": [
                         {
-                            "version": "2.6.0b12",
-                            "path": "firmware/esp-miner-factory-601-v2.6.0b12.bin"
+                            "version": "2.15.4",
+                            "path": "firmware/esp-miner-factory-601-v2.15.4.bin"
                         }
                     ]
                 }
